@@ -20,4 +20,7 @@ PoS start block: 1
 5% Yearly PoS
 
 
-
+NOTE:
+Before compiling remember to:
+-leveldb make clean
+-src/ mkdir obj
