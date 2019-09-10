@@ -17,7 +17,7 @@ Old vira supply at the snapshot = 2175660000
 
 FPoS:
 PoS start block: 1
-5% Yearly PoS
+5% Yearly PoS + 20 VIRAX stake rewards by hitting a POS block
 
 
 NOTE:
